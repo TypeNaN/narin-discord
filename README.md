@@ -1,1 +1,1 @@
-# duco
+# Bot Narin for Discord
